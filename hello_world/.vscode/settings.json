@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./hello_world_lib/Cargo.toml"
+    ],
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
